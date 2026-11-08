@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/matrix-banner.png" width="100%" alt="SCARZZE Matrix banner">
+</p>
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B20,100:00FF41&height=180&section=header&text=SCARZZE&fontSize=65&fontColor=00FF41&fontAlignY=45" width="100%" />
